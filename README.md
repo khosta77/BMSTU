@@ -7,11 +7,11 @@
 * Филимонов Степан 
     * [Телеграмм](https://t.me/puwerfulpants)
     * [Вк](https://vk.com/stepanphilimonv)
-    * [Github:)](https://github.com/khosta77)
     
 Отдельная благодарность:
 
 * Мухин Георгий
+    * [Вк](https://vk.com/goodgodgame)
 * Лобанов Денис
 * Худяков Артем
 * Болотина Елена 

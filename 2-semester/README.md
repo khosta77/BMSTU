@@ -5,6 +5,6 @@
 * [Основы программирования на C++](https://github.com/khosta77/BCppP)
 * Иностранный язык
 * Инженерная и компьютерная графика 
-* Интегралы и дифференциальные уравнения
+* [Интегралы и дифференциальные уравнения](https://github.com/khosta77/bmstu_math/tree/IaDE)
 * [Физика](https://github.com/khosta77/Physics/tree/sem-2)
 * Химия

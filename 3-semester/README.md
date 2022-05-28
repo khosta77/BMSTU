@@ -5,6 +5,6 @@
 * Русский язык
 * Иностранный язык
 * [Радиоматериалы и радиокомпоненты](https://github.com/khosta77/RMRC)
-* Теория поля и ряды
-* Уравнения математической физики и преобразования Фурье
+* [Теория поля и ряды](https://github.com/khosta77/bmstu_math/tree/FTaS)
+* [Уравнения математической физики и преобразования Фурье](https://github.com/khosta77/bmstu_math/tree/MPEaFT)
 * [Физика](https://github.com/khosta77/Physics/tree/sem-3)

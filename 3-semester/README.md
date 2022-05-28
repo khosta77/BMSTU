@@ -2,8 +2,8 @@
 
 * [Основы теории цепей](https://github.com/khosta77/FCT/tree/sem-3)
 * [Современные проблемы радиотехники ](https://github.com/khosta77/MPRE)
-* Русский язык
-* Иностранный язык
+* [Русский язык](https://github.com/khosta77/BMSTU/tree/main/3-semester/%D0%A0%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA)
+* [Иностранный язык](https://github.com/khosta77/BMSTU/tree/main/3-semester/%D0%90%D0%BD%D0%B3%D0%BB%D0%B8%D1%81%D0%BA%D0%B8%D0%B9%20%D1%8F%D0%B7%D1%8B%D0%BA)
 * [Радиоматериалы и радиокомпоненты](https://github.com/khosta77/RMRC)
 * [Теория поля и ряды](https://github.com/khosta77/bmstu_math/tree/FTaS)
 * [Уравнения математической физики и преобразования Фурье](https://github.com/khosta77/bmstu_math/tree/MPEaFT)

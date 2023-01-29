@@ -1,7 +1,7 @@
 # Четвертый семестр
 
 * [Основы теории цепей](https://github.com/khosta77/FCT/tree/sem-4)
-* [Электродинамика и распространение радиоволн]()
+* [Электродинамика и распространение радиоволн](https://github.com/khosta77/ElectroDynamics2)
 * [Электроника](https://github.com/khosta77/Electronics)
 * Иностранный язык
 * [Теория вероятностей и случайные процессы](https://github.com/khosta77/bmstu_math/tree/PTaRP)

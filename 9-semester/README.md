@@ -5,7 +5,7 @@
 * [Радиотехнические системы и комплексы]()
 * [Радиоавтоматика. Системы автоматического управления]()
 * [Основы надежности технических систем](https://github.com/khosta77/Fundamentals_of_Reliability_of_technical_systems)
-* [Технология радиоэлектронных систем](https://github.com/khosta77/rudenko_repository/tree/semester-9)
+* [Технология радиоэлектронных систем](https://github.com/khosta77/meshkov_repository/tree/semester-9)
 * [Информационные РЭС](https://github.com/khosta77/rudenko_repository/tree/semester-9)
 * ~~Защита интеллектуальной собственности. Сертификация электронных систем~~ -> работать надо было вместо этого предмета
 * [Устройства приема и преобразования сигналов](https://github.com/khosta77/signal_reception_and_conversion_devices/tree/semester-9)
